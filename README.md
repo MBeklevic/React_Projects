@@ -14,7 +14,11 @@ All The React Projects Repositories
 | 08  | [Task App Project](https://github.com/MBeklevic/task_app)                               | [Webpage](https://mbeklevic.github.io/task_app/)                    |
 | 09  | [Cat App Project](https://github.com/MBeklevic/cat_app)                                 | [Webpage](https://mbeklevic.github.io/cat_app/)                     |
 | 10  | [To Do App w/ React Hooks](https://github.com/MBeklevic/to_do_app)                      | [Webpage](https://mbeklevic.github.io/to_do_app/)                   |
-| 11  | [Crypto Dashboard Project](https://github.com/MBeklevic/crypto-dashboard)               | [Webpage](https://mbeklevic.github.io/crypto-dashboard/)            |
+| 11  | [Crypto Dashboard Project w/ React Hooks](https://github.com/MBeklevic/crypto-dashboard)| [Webpage](https://mbeklevic.github.io/crypto-dashboard/)            |
+| 12  | [Book Shop Project w/ React Hooks](https://github.com/MBeklevic/book_shop)              | [Webpage](https://mbeklevic.github.io/book_shop/)                   |
+
+
+
 
 ## About Me
 - [LinkedIn](https://linkedin.com/in/mustafabekleviç/)
