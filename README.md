@@ -23,4 +23,4 @@ All The React Projects Repositories
 ## About Me
 - [LinkedIn](https://linkedin.com/in/mustafabekleviç/)
 
-* Please visit the repository and read the "Readme" file in order to see the webpage properly.
+*Please visit the repository and read the "Readme" file in order to see the webpage properly.
