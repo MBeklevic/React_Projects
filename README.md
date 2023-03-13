@@ -18,7 +18,9 @@ All The React Projects Repositories
 | 12  | [Book Shop Project w/ React Hooks](https://github.com/MBeklevic/book_shop)              | [Webpage](https://mbeklevic.github.io/book_shop/)                   |
 | 13  | [Weather API Project w/ React Hooks](https://github.com/MBeklevic/weather)              | [Webpage](https://mbeklevic.github.io/weather/)                     |
 | 14  | [Countries API Project w/ React Hooks](https://github.com/MBeklevic/countries-app)      | [Webpage](https://mbeklevic.github.io/countries-app/)               |
-
+| 15  | [Football Cards Project w/ Redux Toolkit](https://github.com/MBeklevic/f-app)           | [Webpage*](https://mbeklevic.github.io/f-app/)                      |
 
 ## About Me
 - [LinkedIn](https://linkedin.com/in/mustafabekleviç/)
+
+* Please visit the repository and read the "Readme" file in order to see the webpage properly.
