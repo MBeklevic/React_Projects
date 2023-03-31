@@ -19,6 +19,8 @@ All The React Projects Repositories
 | 13  | [Weather API Project w/ React Hooks](https://github.com/MBeklevic/weather)              | [Webpage](https://mbeklevic.github.io/weather/)                     |
 | 14  | [Countries API Project w/ React Hooks](https://github.com/MBeklevic/countries-app)      | [Webpage](https://mbeklevic.github.io/countries-app/)               |
 | 15  | [Football Cards Project w/ Redux Toolkit](https://github.com/MBeklevic/f-app)           | [Webpage*](https://mbeklevic.github.io/f-app/)                      |
+| 16  | [Dog Films App w/ Nextjs](https://github.com/MBeklevic/dog_app)                         | [Webpage](https://dog-app-psi.vercel.app/)                          |
+
 
 ## About Me
 - [LinkedIn](https://linkedin.com/in/mustafabekleviç/)
